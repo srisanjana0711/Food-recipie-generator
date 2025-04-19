@@ -108,7 +108,7 @@ This project is intended for educational and research use only. 📘
 
 ### **🧑‍💻 Author**
 👤 **Srisanjana Karunamoorthy**  
-🔗 GitHub: [Sanju-07112001](https://github.com/Sanju-07112001)  
+🔗 GitHub: [srisanjana0711](https://github.com/srisanjana0711)  
 
 ---
 
